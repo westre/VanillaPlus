@@ -1,0 +1,25 @@
+name: Vanilla Plus
+main: com.westre.vanillaplus.main.Main
+version: 0.01
+author: westre
+description: >
+             Minecraft with an economy.
+commands:
+   sell:
+      description: Sell your equipment!
+   unsell:
+      description: Unsell your equipment!
+   money:
+      description: Get your hard earned money.
+   bug:
+      description: Let me fix em!
+   a:
+      description: None of your business.
+   admin:
+      description: None of your business.
+   options:
+      description: Options menu.
+   r:
+      description: Regional chat.
+   region:
+      description: Base for regional commands.
